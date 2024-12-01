@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VegTummy</string>
+    <string name="privacy_policy_url">http://abhishekab.netlify.app</string>
+    <string name="abt_dev">http://abhishekab.netlify.app</string>
+</resources>
